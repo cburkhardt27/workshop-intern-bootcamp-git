@@ -1,7 +1,7 @@
 # Set-up: installing and configuring git (steps 0.1 through 0.5)
 
 ## Step 0.1: Registering a GitHub account
-
+# boop
 If you already have a GitHub account you'd like to use, log in to that account.<br>
 Tip: It would be helpful to register Red Hat email id to your GitHub for easy workflow. [Add Second Email to GitHub](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/adding-an-email-address-to-your-github-account)
 
